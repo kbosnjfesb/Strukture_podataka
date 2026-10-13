@@ -5,7 +5,7 @@
 #define MAX_POINTS 50
 #define FILE_NOT_OPENED -1
 
-typedef struct {
+typedef struct Student {
     char name[30];
     char surname[30];
     int points;
