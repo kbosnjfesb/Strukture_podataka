@@ -50,7 +50,7 @@ int fileWrite(Position);
 int _fileRead();
 int fileRead(Position);
 
-void main()
+int main()
 {
 	char in = 0;
 	FILE* filePointer = NULL;
